@@ -7,11 +7,7 @@ Created on Sun Jun  2 21:25:53 2024
 
 # -*- coding: utf-8 -*-
 """
-Şevval MIKÇI 21370031063
-Enise SEVİM 21370031016
-Tuğçenur MARAL 21370031055
-Yağmur UYSAL 21370031044
-Esra AKKOYUN 21370031049
+Şevval MIKÇI 
 """
 
 import pandas as pd # veri işleme için kullanılan bir kütüphanedir. 
